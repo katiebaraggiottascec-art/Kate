@@ -1,0 +1,38 @@
+     2.11           OBSERVATION DATA    G (GPS)             RINEX VERSION / TYPE
+teqc  2019Feb25     K Baraggiotta       20250819 04:47:04UTCPGM / RUN BY / DATE
+Linux 2.6.32-573.12.1.x86_64|x86_64|gcc -static|Linux 64|=+ COMMENT
+BIT 2 OF LLI FLAGS DATA COLLECTED UNDER A/S CONDITION       COMMENT
+RITA                                                        MARKER NAME
+                                                            MARKER NUMBER
+Katie Baraggiotta   University of California, Riverside     OBSERVER / AGENCY
+0220413523          TRIMBLE R7          2.32                REC # / TYPE / VERS
+12606420            TRM41249.00                             ANT # / TYPE
+ -2405689.6969 -4505260.5503  3810982.2781                  APPROX POSITION XYZ
+        0.9299        0.0000        0.0000                  ANTENNA: DELTA H/E/N
+     1     1                                                WAVELENGTH FACT L1/2
+     7    L1    L2    C1    P1    P2    S1    S2            # / TYPES OF OBSERV
+ SNR is mapped to RINEX snr flag value [0-9]                COMMENT
+  L1 & L2: min(max(int(snr_dBHz/6), 0), 9)                  COMMENT
+  2025     8     6     0     0    0.0000000     GPS         TIME OF FIRST OBS
+                                                            END OF HEADER
+ 25  8  6  0  0  0.0000000  0 10G01G02G03G04G16G26G28G31G06G09
+   4503979.27747   3502625.98045  22775612.3674                   22775615.9024
+        45.0004         30.0004
+   5428188.30546   4211928.46943  24800256.5164                   24800262.5204
+        39.7504         19.5004
+  -1640684.04348  -1239620.43748  20100184.5394                   20100185.9344
+        49.7504         50.5004
+  -3016223.21547  -2307367.70345  21404909.3914                   21404910.3134
+        46.2504         34.2504
+  -6139394.86347  -4703103.07444  22850448.5004                   22850450.3134
+        42.7504         24.0004
+  -2367060.91047  -1807388.24647  21727144.7734                   21727147.9454
+        45.7504         42.5004
+   5791330.39246   4494786.85643  24162638.0004                   24162639.4304
+        38.0004         22.0004
+   3940624.01648   3068288.13747  21492597.0474                   21492595.4574
+        48.2504         44.2504
+   -451348.96146   -322256.53544  25210723.1254                   25210728.3404
+        36.7504         25.2504
+  -4863946.81246  -3718589.67245  24071681.6954                   24071687.6994
+        37.5004         30.7504
